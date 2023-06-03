@@ -20,7 +20,7 @@ ALGORITHMS
 
 4.  LSTM:-  Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) that is particularly effective in handling and analyzing sequential data. It is designed to capture and remember long-term dependencies and patterns in data over extended periods.
 
-![image](https://github.com/shwetkml/Fake-Account-Detection_Research_Work/assets/55191710/3dd5c7ba-0e2b-48fa-82ad-97687bdd2f9d
+![image](https://github.com/shwetkml/Fake-Account-Detection_Research_Work/assets/55191710/3dd5c7ba-0e2b-48fa-82ad-97687bdd2f9d)
 ![image](https://github.com/shwetkml/Fake-Account-Detection_Research_Work/assets/55191710/64657312-f157-4bed-8b29-79877cdb03b5)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
